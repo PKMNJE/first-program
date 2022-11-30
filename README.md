@@ -1,2 +1,2 @@
-# first-program
-내 첫번째 프로그램
+# python chatting
+python 채팅 프로그램
